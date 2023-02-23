@@ -7,15 +7,17 @@ como Full Stack developer para desenvolverme exitosamente en cada uno de los ret
 
 ### 🎯 Algunas de las tecnologías con las que trabajo: 
 
-Frontend https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white
+![](https://myoctocat.com/assets/images/base-octocat.svg](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white)
   
 ### 🌐 Encuentrame 
- Mi github [GitHub Pages](https://pages.github.com/).
-  
+ 
+ 
+
+
+
 <!--
-<ul>
-    <li> 📫 </li>
-  </ul>
+Mi github [GitHub Pages](https://pages.github.com/).
+📫
 **sanchezcarol/sanchezcarol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
