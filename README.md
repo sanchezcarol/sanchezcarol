@@ -5,8 +5,8 @@
 
 ### 🎯 Algunas de las tecnologías con las que trabajo: 
 
-
-![Angular](https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png) 
+<img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="ionic" width="40" height="40"/>
+![Angular]() 
 ![Bootstrap](https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png)
 ![Express](https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png)
 ![firebase](https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png)
