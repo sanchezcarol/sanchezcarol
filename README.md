@@ -5,7 +5,7 @@
 <br/>
 <br/>
 Soy desarrollador web con habilidades tanto en el FrontEnd como en BackEnd. Enfocada, apasionada, responsable y proactiva ⚡. Me gusta mantenerme en constante aprendizaje. Mi objetivo principal es seguir ampliando mi carrera profesional como Full Stack developer para desenvolverme exitosamente en cada uno de los retos que se me presenten 💪.
-<br/><br/>
+<br/>
 #### 🎯 Algunas de las tecnologías con las que trabajo: 
 <br/>
 <p align="center">
