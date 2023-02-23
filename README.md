@@ -7,7 +7,7 @@ como Full Stack developer para desenvolverme exitosamente en cada uno de los ret
 
 ### 🎯 Algunas de las tecnologías con las que trabajo: 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 ### 🌐 Encuentrame 
  
  
