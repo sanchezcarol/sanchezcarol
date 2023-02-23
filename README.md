@@ -7,7 +7,7 @@ como Full Stack developer para desenvolverme exitosamente en cada uno de los ret
 
 ### 🎯 Algunas de las tecnologías con las que trabajo: 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ### 🌐 Encuentrame 
  
  
