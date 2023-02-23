@@ -5,6 +5,9 @@ Soy desarrollador web con habilidades tanto en el FrontEnd como en BackEnd.
 como Full Stack developer para desenvolverme exitosamente en cada uno de los retos que se me presenten 💪.
 
 ### Algunas de las tecnologías con las que trabajo: 
+
+https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+
 <!--
 **sanchezcarol/sanchezcarol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
